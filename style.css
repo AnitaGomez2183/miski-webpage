@@ -1,0 +1,26 @@
+*{
+margin:"0";
+padding:"0";
+}
+body{
+    display: flex;
+    background-color: rgb(183, 207, 228);
+}
+.name{
+    font-family: 'sans', sans-serif; 
+    color: blue
+}
+.title{
+    text-align: center;
+    color:rgb(243, 232, 27)
+
+    
+}
+.rectangle{
+    background-color: rgb(219, 129, 11);
+    border:3px solid
+    black;
+    width:250px;
+    height:170px;
+    display:inline-block
+}
