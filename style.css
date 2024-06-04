@@ -4,9 +4,14 @@ padding:"0";
 
 }
 *{box-sizing: border-box;}
+
 body{
     display: flex;
     background-color: rgb(183, 207, 228);
+}
+img {
+    display: block
+    width: 100%;
 }
 .name{
     font-family: 'sans', sans-serif; 
@@ -24,7 +29,7 @@ body{
     rgb(85, 78, 78);
     width:850px;
     height:570px;
-    display:flexbox;
+    display:flex;
 }
 
 
